@@ -1,0 +1,277 @@
+Microsoft Developer Studio Workspace File, Format Version 6.00
+# WARNING: DO NOT EDIT OR DELETE THIS WORKSPACE FILE!
+
+###############################################################################
+
+Project: "EMCommand_Library"=.\EMCommand_Library.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+    begin source code control
+    "$/Titan_r1", BAAAAAAA
+    .
+    end source code control
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "EMCommon_Library"=.\EMCommon_Library.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+    begin source code control
+    "$/EMCommon_Library", FLGAAAAA
+    .
+    end source code control
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "EMDebug_Library"=.\EMDebug_Library.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+    begin source code control
+    "$/Titan_r1", BAAAAAAA
+    .
+    end source code control
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "EMMediaEngine_Library"=.\EMMediaEngine_Library.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+    begin source code control
+    "$/Titan_r1", BAAAAAAA
+    .
+    end source code control
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "EMNetworkEngine_Library"=.\EMNetworkEngine_Library.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+    begin source code control
+    "$/EMNetworkEngine_Library", UQHAAAAA
+    .
+    end source code control
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "EMProjectManager_Library"=.\EMProjectManager_Library.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+    begin source code control
+    "$/Titan_r1", BAAAAAAA
+    .
+    end source code control
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "EMReadFrame"=.\EMReadFrame.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+    begin source code control
+    "$/EMReadFrame", UOGAAAAA
+    .
+    end source code control
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "EMSettings_Library"=.\EMSettings_Library.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+    begin source code control
+    "$/Titan_r1", BAAAAAAA
+    .
+    end source code control
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "EMWinAudioConvert"=.\EMWinAudioConvert.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+    begin source code control
+    "$/EMWinAudioConvert", VCIAAAAA
+    .
+    end source code control
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "EMWinDXAudioOutput"=.\EMWinDXAudioOutput.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+    begin source code control
+    "$/EMWinDXAudioOutput", VUGAAAAA
+    .
+    end source code control
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "EMWinDXPluginEngine"=.\EMWinDXPluginEngine.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+    begin source code control
+    "$/EMWinDXPluginEngine", UOGAAAAA
+    .
+    end source code control
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "EMWinMediaInputFilter"=.\EMWinMediaInputFilter.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+    begin source code control
+    "$/EMWinMediaInputFilter", PWFAAAAA
+    .
+    end source code control
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "EMWinMediaOutputFilter"=.\EMWinMediaOutputFilter.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+    begin source code control
+    "$/EMWinMediaOutputFilter", RROAAAAA
+    .
+    end source code control
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "EMWinVideoShuffleOutputFilter"=.\EMWinVideoShuffleOutputFilter.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+    begin source code control
+    "$/EMWinVideoShuffleOutputFilter", KFHAAAAA
+    .
+    end source code control
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "EMWinVideoVirtualRenderer"=.\EMWinVideoVirtualRenderer.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+    begin source code control
+    "$/EMWinVideoVirtualRenderer", THGAAAAA
+    .
+    end source code control
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "Titan_r1"=.\Titan_r1.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+    begin source code control
+    "$/EMDebug_Library", YEFAAAAA
+    .
+    end source code control
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Global:
+
+Package=<5>
+{{{
+    begin source code control
+    "$/Titan_r1", BAAAAAAA
+    .
+    end source code control
+}}}
+
+Package=<3>
+{{{
+}}}
+
+###############################################################################
+

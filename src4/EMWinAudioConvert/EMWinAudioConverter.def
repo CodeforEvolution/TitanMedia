@@ -1,0 +1,7 @@
+
+LIBRARY         EMWinAudioConverter.dll
+EXPORTS
+                DllGetClassObject PRIVATE
+                DllCanUnloadNow PRIVATE
+                DllUnregisterServer PRIVATE
+                DllRegisterServer PRIVATE

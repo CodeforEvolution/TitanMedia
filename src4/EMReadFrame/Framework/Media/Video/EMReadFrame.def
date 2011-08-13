@@ -1,0 +1,8 @@
+
+LIBRARY         EMReadFrame_Library.dll
+EXPORTS
+                DllGetClassObject PRIVATE
+                DllCanUnloadNow PRIVATE
+                DllUnregisterServer PRIVATE
+                DllRegisterServer PRIVATE
+

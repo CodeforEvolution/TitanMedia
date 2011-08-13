@@ -1,0 +1,5 @@
+SCC = This is a Source Code Control file
+
+[EMSettings_Library.dsp]
+SCC_Aux_Path = "\\LEIA\SourceSafe\"
+SCC_Project_Name = "$/EMSettings_Library", VUFAAAAA
